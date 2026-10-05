@@ -9,7 +9,7 @@
 
 # Demanem els valors
 frase = input("Introdueix una frase: \n")
-# Demanem la paraula que es vol subtutuir
+# Demanem la paraula que es vol subtituir
 paraula_sustituida = input("Introdueix la paraula a subtituir, present a la frase anterior: \n")
 # Demanem la paraula subtituta
 paraula_nova = input("Introdueix la paraula substituta: \n")
