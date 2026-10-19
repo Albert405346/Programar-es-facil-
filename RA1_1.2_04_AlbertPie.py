@@ -11,7 +11,7 @@
 número_1 = int(input("Introdueix el primer número \n"))
 número_2 = int(input("Introdueix el segón número \n"))
 signe = input("Quina operació vols executar? \n")
-# Definim la variable operació i concatenem els valors amb comes. Indiquem que els números són str; no es pot sumar entern i text. 
+# Definim la variable operació i concatenem els valors amb comes. Indiquem que els números són str; no es pot sumar enter i text. 
 operació = str(número_1) + signe + str(número_2)
 # Imprimim operació
 print(operació)
