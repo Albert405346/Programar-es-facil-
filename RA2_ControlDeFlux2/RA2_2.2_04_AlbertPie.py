@@ -13,7 +13,7 @@ numero = random.randint(1, 100)
 
 intent = int(input("Adivina el número: \n"))
 
-# != col dir que, mentre l'intent sigui distint al número seleccionat, es repetirà el bucle.
+# != vol dir que, mentre l'intent sigui distint al número seleccionat, es repetirà el bucle.
 while(intent != numero):
     if intent > numero:
         print("Massa alt")
