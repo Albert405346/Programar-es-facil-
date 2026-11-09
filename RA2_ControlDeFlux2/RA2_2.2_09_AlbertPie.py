@@ -8,7 +8,7 @@
 #-----------------------------------------------------------------------------------------------------
 
 # Necessitem convertir els números en una llista per a treballar millor.
-# Concretament, les funcions strip() i split() serveixen per a eliminar els espais en sobrants i separar per espais, salts de linea o tabulacions.
+# Concretament, les funcions strip() i split() serveixen per a eliminar els espais sobrants i separar per espais, salts de linea o tabulacions.
 numero = input("Introdueix una llista de números: \n")
 llista = [int(n.strip()) for n in numero.split()]
 
