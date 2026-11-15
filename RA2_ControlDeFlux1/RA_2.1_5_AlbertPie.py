@@ -34,6 +34,6 @@ if (anys == 18):
         if (data_avui.day() > dia):
             print("Ets major d'edat.")
         if (data_avui.day() < dia):
-            print("Ets major d'edat.")
+            print("Ets menor d'edat.")
         if (data_avui.day() == dia):
             print("Ets major d'edat.")
