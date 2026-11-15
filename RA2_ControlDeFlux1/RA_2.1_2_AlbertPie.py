@@ -1,5 +1,5 @@
 #-----------------------------------------------------
-# Programa: Indicar si un número és parrel o imparell
+# Programa: Indicar si un número és parell o imparell
 # Autor: Albert Pie Santamaria
 # Curs: 1rº asix
 # Data: 26 / 10 / 2026
